@@ -8,3 +8,12 @@ Added function to confirm each setting with true statment and alert if they are 
 
 ## 
 Thank you for checking it. =))
+
+### List:
+HTML
+CSS
+JavaScript
+
+
+####
+
