@@ -8,3 +8,14 @@ Added function to confirm each setting with true statment and alert if they are 
 
 ## 
 Thank you for checking it. =))
+
+### List:
+HTML
+CSS
+JavaScript
+
+
+####
+https://github.com/MaryiaVinogradova/password-generator.git
+https://maryiavinogradova.github.io/password-generator/
+
