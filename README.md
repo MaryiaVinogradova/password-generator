@@ -6,7 +6,7 @@ The fisrt I tried to defin what buttons I will need to proceed. Then I added all
 * Note: when i tried to use passwordUser instead of tempArray - my password was 4 times longer then user said.
 Added function to confirm each setting with true statment and alert if they are not true. Return each function in the end. 
 
-Screen Shot 2022-02-22 at 11.26.52 AM.png
+https://github.com/MaryiaVinogradova/password-generator/blob/3c858bb18415f458fe3524b3701b9d7355f231fc/Screen%20Shot%202022-02-22%20at%2011.26.52%20AM.png
 ## 
 Thank you for checking it. =))
 
