@@ -6,7 +6,7 @@ The fisrt I tried to defin what buttons I will need to proceed. Then I added all
 * Note: when i tried to use passwordUser instead of tempArray - my password was 4 times longer then user said.
 Added function to confirm each setting with true statment and alert if they are not true. Return each function in the end. 
 
-Screen S<img width="887" alt="Screen Shot 2022-02-22 at 11 26 52 AM" src="https://user-images.githubusercontent.com/95455286/155253197-f252a19c-0384-436e-9db7-d294d1813d2d.png">
+<img width="887" alt="Screen Shot 2022-02-22 at 11 26 52 AM" src="https://user-images.githubusercontent.com/95455286/155253197-f252a19c-0384-436e-9db7-d294d1813d2d.png">
 
 ## 
 Thank you for checking it. =))
