@@ -21,3 +21,4 @@ JavaScript
 https://github.com/MaryiaVinogradova/password-generator.git
 https://maryiavinogradova.github.io/password-generator/
 
+Copyright (c) 2022 MaryiaVinogradova
